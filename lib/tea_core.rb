@@ -4,7 +4,7 @@ require 'net/http'
 
 # The Tea module
 module Tea
-  VERSION = '0.0.1'
+  VERSION = '0.0.2'
 
   module_function
 
