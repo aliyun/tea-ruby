@@ -1,8 +1,21 @@
-Tea Core SDK for Ruby
-=====================
+<p align="center">
+<a href="https://www.alibabacloud.com"><img src="https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg"></a>
+</p>
 
-Installation
+<h1 align="center">Tea Core SDK for Ruby</h1>
+
+<p align="center">
+<a href="https://badge.fury.io/rb/tea_core"><img src="https://badge.fury.io/rb/tea_core.svg" alt="Gem Version"></a>
+<a href="https://travis-ci.org/aliyun/tea-core"><img src="https://travis-ci.org/aliyun/tea-core.svg?branch=master" alt="Build Status"></a>
+<a href="https://ci.appveyor.com/project/aliyun/tea-core/branch/master"><img src="https://ci.appveyor.com/api/projects/status/uyepkk5bjbynofvu/branch/master?svg=true" alt="Build status"></a>
+<a href="https://codecov.io/gh/aliyun/tea-core"><img src="https://codecov.io/gh/aliyun/tea-core/branch/master/graph/badge.svg" alt="codecov"></a>
+</p>
+
+## Installation
 
 ```sh
-$ gem install tea
+$ gem install tea_core
 ```
+
+## License
+The Apache 2.0 License.

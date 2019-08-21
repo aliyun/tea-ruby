@@ -96,7 +96,7 @@ module Tea
     uri
   end
 
-  def do_request(request)
+  def do_request(request, runtime = nil)
     uri = to_uri(request)
     case request['method'].downcase || 'get'
     when 'get'
